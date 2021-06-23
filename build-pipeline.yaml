@@ -76,7 +76,7 @@ spec:
       - test
     params:
       - name: DOCKERFILE_PATH
-        value: "./Dockerfile"
+        value: "./Dockerfile.ubi8"
       - name: IMAGE_TAG
         value: "$(params.imageTag)"
     resources:
