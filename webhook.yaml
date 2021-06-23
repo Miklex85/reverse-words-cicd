@@ -61,5 +61,6 @@ spec:
               - push
       bindings:
         - name: pipeline-binding
+          value: <git-triggerbinding>
       template:
         name: reverseword-build-triggertemplate
