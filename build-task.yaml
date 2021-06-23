@@ -13,7 +13,7 @@ spec:
       default: "true"
     - name: DOCKERFILE_PATH
       description: Path to the Dockerfile file
-      default: ./Dockerfile
+      default: ./Dockerfile.ubi8
     - name: IMAGE_TAG
       description: Tag for the built image
       default: latest
