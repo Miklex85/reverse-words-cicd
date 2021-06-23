@@ -81,5 +81,5 @@ spec:
       - name: insecure
         value: "true"
       - name: branch-generate-name
-        value: "image-promotion-"
+        value: ""
 
